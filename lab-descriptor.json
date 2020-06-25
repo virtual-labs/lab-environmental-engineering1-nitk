@@ -42,7 +42,7 @@
          	"deploy": true
 	    }, {
 	        "name": "Determination of pH",
-		"short-name": "determination-of-pH",
+		"short-name": "determination-of-ph",
 		"repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/environmental-engineering-nitk/determination-of-ph-nitk",
  	        "tag": "v1.0.2",
          	"deploy": true
