@@ -1,77 +1,82 @@
 {
-    "broadArea": {
-	"name": "Civil Engineering",
-	"link": "http://vlab.co.in/broad-area-civil-engineering"
+  "broadArea": {
+    "name": "Civil Engineering",
+    "link": "http://vlab.co.in/broad-area-civil-engineering"
+  },
+  "lab": "Environmental Engineering 1",
+  "phase": 3,
+  "deployLab": true,
+  "collegeName": "NITS",
+  "baseUrl": "ee1-nitk.vlabs.ac.in",
+  "introduction": "Welcome to the Environmental Engineering Lab",
+  "experiments": [
+    {
+      "name": "Determination of TS,TDS and TSS in water",
+      "short-name": "determination-of-ts",
+      "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/environmental-engineering-nitk/determination-of-ts-nitk",
+      "tag": "v1.0.3",
+      "deploy": true
     },
-    "lab": "Environmental Engineering 1",
-    "phase": "3",
-    "deployLab":true,
-    "collegeName": "NITS",
-    "baseUrl": "http://ee1-nitk.vlabs.ac.in",
-    "introduction": "Welcome to the Environmental Engineering Lab",
-    "experiments": [
-	    {
-	        "name": "Determination of TS,TDS and TSS in water",
-		"short-name": "determination-of-ts",
-		"repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/environmental-engineering-nitk/determination-of-ts-nitk",
- 	        "tag": "v1.0.2",
-         	"deploy": true
-	    }, {
-	        "name": "Determination of Alkalinity in water",
-		"short-name": "determination-of-alkalinity",	
-		"repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/environmental-engineering-nitk/determination-of-alkalinity-nitk",
- 	        "tag": "v1.0.2",
-         	"deploy": true		
-	    }, {
-	        "name": "Determination of Hardness in water",
-		"short-name": "determination-of-hardness",
-		"repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/environmental-engineering-nitk/determination-of-hardness-nitk",
- 	        "tag": "v1.0.2",
-         	"deploy": true
-	    }, {
-	        "name": "Determination of Chloride in water",
-		"short-name": "determination-of-chloride",
-		"repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/environmental-engineering-nitk/determination-of-chloride-nitk",
- 	        "tag": "v1.0.2",
-         	"deploy": true
-	    }, {
-	        "name": "Determination of Total Iron in water",
-		"short-name": "determination-of-total-iron",
-		"repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/environmental-engineering-nitk/determination-of-totaliron-nitk",
- 	        "tag": "v1.0.2",
-         	"deploy": true
-	    }, {
-	        "name": "Determination of pH",
-		"short-name": "determination-of-ph",
-		"repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/environmental-engineering-nitk/determination-of-ph-nitk",
- 	        "tag": "v1.0.2",
-         	"deploy": true
-	    }, {
-	        "name": "Determination of Biological Oxygen Demand",
-		"short-name": "determination-of-biological-oxygen",
-		"repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/environmental-engineering-nitk/determination-biological-oxygen-demand-nitk",
- 	        "tag": "v1.0.2",
-        	"deploy": true
-        }
-    ],
-    "targetAudience": {
-	"UG": [
-	    "B. Tech./ B.E in Civil Engineering and Environment Engineering"
-	],
-	"PG": [
-	    "M.Tech/MS in Environment Engineering",
-	    "Diploma in Civil Engineering"	
-	]
+    {
+      "name": "Determination of Alkalinity in water",
+      "short-name": "determination-of-alkalinity",
+      "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/environmental-engineering-nitk/determination-of-alkalinity-nitk",
+      "tag": "v1.0.3",
+      "deploy": true
     },
-    "objective": "Projects funded by Govt. of India for the welfare of rivers like Namami Gange involves various water treatment test to analyse the physio chemical and bacteriological properties of water. This lab provides the knowledge about properties of water and explains the various method followed in the test along with its suitability as a drinking water.",
-    "courseAlignment": {
-	"description": "The syllabi of this lab aligns to the following universities in India.",
-	"universities": [
-	    "Environmental Engineering - National Institute of Technology Karnataka Surathkal, APJ Abdul Kalam Technological University, Goa University",
-	    "Environmental Engineering II - APJ Abdul Kalam Technological University",
-	    "Environmental Engineering Laboratory - National Institute of Technology Karnataka Surathkal, APJ Abdul Kalam Technological University",
-	    "Waste Supply Engineering - Anna University",
-	    "Water and Waste Water Analysis Laboratory - Anna University"
-	]
+    {
+      "name": "Determination of Hardness in water",
+      "short-name": "determination-of-hardness",
+      "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/environmental-engineering-nitk/determination-of-hardness-nitk",
+      "tag": "v1.0.3",
+      "deploy": true
+    },
+    {
+      "name": "Determination of Chloride in water",
+      "short-name": "determination-of-chloride",
+      "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/environmental-engineering-nitk/determination-of-chloride-nitk",
+      "tag": "v1.0.3",
+      "deploy": true
+    },
+    {
+      "name": "Determination of Total Iron in water",
+      "short-name": "determination-of-total-iron",
+      "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/environmental-engineering-nitk/determination-of-totaliron-nitk",
+      "tag": "v1.0.3",
+      "deploy": true
+    },
+    {
+      "name": "Determination of pH",
+      "short-name": "determination-of-ph",
+      "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/environmental-engineering-nitk/determination-of-ph-nitk",
+      "tag": "v1.0.3",
+      "deploy": true
+    },
+    {
+      "name": "Determination of Biological Oxygen Demand",
+      "short-name": "determination-of-biological-oxygen",
+      "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/environmental-engineering-nitk/determination-biological-oxygen-demand-nitk",
+      "tag": "v1.0.3",
+      "deploy": true
     }
+  ],
+  "targetAudience": {
+    "UG": ["B. Tech./ B.E in Civil Engineering and Environment Engineering"],
+    "PG": [
+      "M.Tech/MS in Environment Engineering",
+      "Diploma in Civil Engineering"
+    ]
+  },
+  "objective": "Projects funded by Govt. of India for the welfare of rivers like Namami Gange involves various water treatment test to analyse the physio chemical and bacteriological properties of water. This lab provides the knowledge about properties of water and explains the various method followed in the test along with its suitability as a drinking water.",
+  "courseAlignment": {
+    "description": "The syllabi of this lab aligns to the following universities in India.",
+    "universities": [
+      "Environmental Engineering - National Institute of Technology Karnataka Surathkal, APJ Abdul Kalam Technological University, Goa University",
+      "Environmental Engineering II - APJ Abdul Kalam Technological University",
+      "Environmental Engineering Laboratory - National Institute of Technology Karnataka Surathkal, APJ Abdul Kalam Technological University",
+      "Waste Supply Engineering - Anna University",
+      "Water and Waste Water Analysis Laboratory - Anna University"
+    ]
+  },
+  "version": "v1.0.2"
 }
