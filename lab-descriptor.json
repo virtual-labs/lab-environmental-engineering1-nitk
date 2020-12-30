@@ -13,50 +13,50 @@
     {
       "name": "Determination of TS,TDS and TSS in water",
       "short-name": "determination-of-ts",
-      "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/environmental-engineering-nitk/determination-of-ts-nitk",
-      "tag": "v1.0.3",
+      "repo": "https://github.com/virtual-labs/exp-determination-of-ts-nitk",
+      "tag": "v1.0.0",
       "deploy": true
     },
     {
       "name": "Determination of Alkalinity in water",
       "short-name": "determination-of-alkalinity",
-      "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/environmental-engineering-nitk/determination-of-alkalinity-nitk",
-      "tag": "v1.0.3",
+      "repo": "https://github.com/virtual-labs/exp-determination-of-alkalinity-nitk",
+      "tag": "v1.0.0",
       "deploy": true
     },
     {
       "name": "Determination of Hardness in water",
       "short-name": "determination-of-hardness",
-      "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/environmental-engineering-nitk/determination-of-hardness-nitk",
-      "tag": "v1.0.3",
+      "repo": "https://github.com/virtual-labs/exp-determination-of-hardness-nitk",
+      "tag": "v1.0.0",
       "deploy": true
     },
     {
       "name": "Determination of Chloride in water",
       "short-name": "determination-of-chloride",
-      "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/environmental-engineering-nitk/determination-of-chloride-nitk",
-      "tag": "v1.0.3",
+      "repo": "https://github.com/virtual-labs/exp-determination-of-chloride-nitk",
+      "tag": "v1.0.0",
       "deploy": true
     },
     {
       "name": "Determination of Total Iron in water",
       "short-name": "determination-of-total-iron",
-      "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/environmental-engineering-nitk/determination-of-totaliron-nitk",
-      "tag": "v1.0.3",
+      "repo": "https://github.com/virtual-labs/exp-determination-of-total-iron-nitk",
+      "tag": "v1.0.0",
       "deploy": true
     },
     {
       "name": "Determination of pH",
       "short-name": "determination-of-ph",
-      "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/environmental-engineering-nitk/determination-of-ph-nitk",
-      "tag": "v1.0.3",
+      "repo": "https://github.com/virtual-labs/exp-determination-of-ph-nitk",
+      "tag": "v1.0.0",
       "deploy": true
     },
     {
       "name": "Determination of Biological Oxygen Demand",
       "short-name": "determination-of-biological-oxygen",
-      "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/environmental-engineering-nitk/determination-biological-oxygen-demand-nitk",
-      "tag": "v1.0.3",
+      "repo": "https://github.com/virtual-labs/exp-determination-of-biological-oxygen-nitk",
+      "tag": "v1.0.0",
       "deploy": true
     }
   ],
@@ -78,5 +78,5 @@
       "Water and Waste Water Analysis Laboratory - Anna University"
     ]
   },
-  "version": "v1.0.2"
+  "version": "v1.0.3"
 }
