@@ -78,5 +78,7 @@
       "Water and Waste Water Analysis Laboratory - Anna University"
     ]
   },
-  "version": "v1.0.3"
+  "version": "v1.1.0",
+  "exp_name": "Determination of Biological Oxygen Demand",
+  "exp_short_name": "determination-of-biological-oxygen"
 }
