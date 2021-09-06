@@ -28,35 +28,35 @@
       "name": "Determination of Hardness in water",
       "short-name": "determination-of-hardness",
       "repo": "https://github.com/virtual-labs/exp-determination-of-hardness-nitk",
-      "tag": "v1.0.3",
+      "tag": "v1.0.4",
       "deploy": true
     },
     {
       "name": "Determination of Chloride in water",
       "short-name": "determination-of-chloride",
       "repo": "https://github.com/virtual-labs/exp-determination-of-chloride-nitk",
-      "tag": "v1.0.3",
+      "tag": "v1.0.4",
       "deploy": true
     },
     {
       "name": "Determination of Total Iron in water",
       "short-name": "determination-of-total-iron",
       "repo": "https://github.com/virtual-labs/exp-determination-of-total-iron-nitk",
-      "tag": "v1.0.3",
+      "tag": "v1.0.4",
       "deploy": true
     },
     {
       "name": "Determination of pH",
       "short-name": "determination-of-ph",
       "repo": "https://github.com/virtual-labs/exp-determination-of-ph-nitk",
-      "tag": "v1.0.3",
+      "tag": "v1.0.4",
       "deploy": true
     },
     {
       "name": "Determination of Biological Oxygen Demand",
       "short-name": "determination-of-biological-oxygen",
       "repo": "https://github.com/virtual-labs/exp-determination-of-biological-oxygen-nitk",
-      "tag": "v1.0.3",
+      "tag": "v1.0.4",
       "deploy": true
     }
   ],
