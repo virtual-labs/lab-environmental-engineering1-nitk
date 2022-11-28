@@ -4,6 +4,7 @@
     "link": "http://vlab.co.in/broad-area-civil-engineering"
   },
   "lab": "Environmental Engineering 1",
+  "lab_display_name": "Environmental Engineering 1",
   "phase": 3,
   "deployLab": true,
   "collegeName": "NITS",
@@ -78,7 +79,7 @@
       "Water and Waste Water Analysis Laboratory - Anna University"
     ]
   },
-  "version": "v1.10.0",
+  "version": "v1.11.0",
   "exp_name": "Determination of Biological Oxygen Demand",
   "exp_short_name": "determination-of-biological-oxygen"
 }
