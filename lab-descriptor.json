@@ -1,7 +1,8 @@
 {
   "broadArea": {
     "name": "Civil Engineering",
-    "link": "http://vlab.co.in/broad-area-civil-engineering"
+    "link": "http://vlab.co.in/broad-area-civil-engineering",
+    "code":"CIVIL"
   },
   "lab": "Environmental Engineering 1",
   "lab_display_name": "Environmental Engineering 1",
@@ -78,8 +79,6 @@
       "Waste Supply Engineering - Anna University",
       "Water and Waste Water Analysis Laboratory - Anna University"
     ]
-  },
-  "version": "v1.12.0",
-  "exp_name": "Determination of Biological Oxygen Demand",
-  "exp_short_name": "determination-of-biological-oxygen"
+  }
+  
 }
