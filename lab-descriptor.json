@@ -2,7 +2,7 @@
   "broadArea": {
     "name": "Civil Engineering",
     "link": "http://vlab.co.in/broad-area-civil-engineering",
-    "code":"CIVIL"
+    "code": "CIVIL"
   },
   "lab": "Environmental Engineering 1",
   "lab_display_name": "Environmental Engineering 1",
@@ -16,14 +16,14 @@
       "name": "Determination of TS,TDS and TSS in water",
       "short-name": "determination-of-ts",
       "repo": "https://github.com/virtual-labs/exp-determination-of-ts-nitk",
-      "tag": "v1.0.3",
+      "tag": "v1.0.4",
       "deploy": true
     },
     {
       "name": "Determination of Alkalinity in water",
       "short-name": "determination-of-alkalinity",
       "repo": "https://github.com/virtual-labs/exp-determination-of-alkalinity-nitk",
-      "tag": "v1.0.3",
+      "tag": "v1.0.4",
       "deploy": true
     },
     {
@@ -63,7 +63,9 @@
     }
   ],
   "targetAudience": {
-    "UG": ["B. Tech./ B.E in Civil Engineering and Environment Engineering"],
+    "UG": [
+      "B. Tech./ B.E in Civil Engineering and Environment Engineering"
+    ],
     "PG": [
       "M.Tech/MS in Environment Engineering",
       "Diploma in Civil Engineering"
@@ -80,5 +82,4 @@
       "Water and Waste Water Analysis Laboratory - Anna University"
     ]
   }
-  
 }
