@@ -23,7 +23,7 @@
       "name": "Determination of Alkalinity in water",
       "short-name": "determination-of-alkalinity",
       "repo": "https://github.com/virtual-labs/exp-determination-of-alkalinity-nitk",
-      "tag": "v1.0.4",
+      "tag": "v1.0.5",
       "deploy": true
     },
     {
